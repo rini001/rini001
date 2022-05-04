@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renaissance</h1>
-<h3 align="center">https://drive.google.com/file/d/1PR0DuL0ZiSE5hNvOwp37kDlc9ojaYdkN/view?usp=sharing</h3>
+<h3 align="center">Aspiring Full Stack Web Developer and determined problem solver with the ability to learn and collaborate in rapidly changing environments. Eager to tackle web development challenges to achieve a lasting impact on user experience .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rini001&label=Profile%20views&color=0e75b6&style=flat" alt="rini001" /> </p>
 
