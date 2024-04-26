@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm [Renaissance], a software developer passionate about building meaningful projects and exploring new technologies.
+I'm Renaissance, a software developer passionate about building meaningful projects and exploring new technologies.
 
 ## 💻 Skills:
 
